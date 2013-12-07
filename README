@@ -1,0 +1,5 @@
+tgcompute is a client for the tgrender server. 
+
+Though it contains some spare code fragments from other ideas, its current functionality is to parse a California-sized chunk of terrain data and animate 
+a virtual camera around it. Then, it assembles packets and sends these frames to tgrender and saves the responses as images.
+
